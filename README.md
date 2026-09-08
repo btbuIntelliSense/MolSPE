@@ -45,10 +45,3 @@ These datasets are widely used to evaluate the ability of models to predict biol
 ### Pre-training Data
 10. **pretrain / pretrainall**: Large-scale unlabeled molecular datasets (likely derived from ZINC or similar libraries) used for the self-supervised pre-training phase to learn general molecular representations.
 11. **test**: Held-out test sets used for final model evaluation.
-
-## Results Visualization
-- **cluster_comparison.png**: Visual comparison of clustering results between different models or baselines.
-- **clustering_result.png**: t-SNE visualization of the learned molecular embeddings, demonstrating the separation of different molecular classes.
-  journal={Your Journal/Conference},
-  year={202X}
-}
